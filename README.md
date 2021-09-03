@@ -1,29 +1,8 @@
-<!--### Hi there 👋-->
-
-<!--
-**Sumit-Budhiraja/Sumit-Budhiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Anurag <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-
+I'm a Computer Science Enthusiast  👨‍💻, Currently in Third year at Chitkara University. 👨‍🎓
 <div float="right">
 <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="280px" width ="280px" align="right"></p>
 </div>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in Third year at Chitkara University. 👨‍🎓
 
 
 
@@ -41,7 +20,11 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Third year at Chitk
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
-<br><br>
+<br>
+<br>
+<br>
+<br>
+
 <hr>
 
 ## ⚡ Technologies I Know ⚡
@@ -67,4 +50,5 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Third year at Chitk
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 

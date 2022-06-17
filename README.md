@@ -1,4 +1,4 @@
-<h1 align="Center">  Hi There , I'm Anurag <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center">  Hi There , I'm Anurag </h1>
 
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in Third year at Chitkara University. 👨‍🎓
